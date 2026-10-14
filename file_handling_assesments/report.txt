@@ -1,0 +1,4 @@
+8lines has clean lines
+5lines has processed
+3lines error
+total_amount=1170
